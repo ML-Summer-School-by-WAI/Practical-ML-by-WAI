@@ -8,8 +8,10 @@ fastapi = "*"
 uvicorn = "*"
 tensorflow = "==2.19.0"
 pillow = "*"
+openai = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"

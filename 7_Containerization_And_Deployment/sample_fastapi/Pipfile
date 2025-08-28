@@ -14,11 +14,12 @@ torch = "*"
 transformers = "==4.42.4"
 openai = "*"
 accelerate = "*"
+pillow = "*"
 
 [dev-packages]
-ipykernel = "*"
 tensorflow-macos = "*"
 tensorflow-metal = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.10"

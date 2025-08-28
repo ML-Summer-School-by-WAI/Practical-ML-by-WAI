@@ -1,5 +1,7 @@
-FROM python:3.10.14
+FROM python:3.10.16
 
+
+ENV PORT=8000
 
 
 EXPOSE $PORT
@@ -13,4 +15,4 @@ RUN pip install pipenv
 RUN pipenv install --system --deploy
 
 
-CMD ["python","main.py"]
+CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT}"]

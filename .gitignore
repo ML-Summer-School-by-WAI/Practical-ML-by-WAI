@@ -175,3 +175,9 @@ cython_debug/
 /6_deep_learning/tf_best_practices/logs
 6_deep_learning/tf_best_practices/binary_classification/12345678_THS_model.h5
 7_Containerization_And_Deployment/temp/ml_models/cat_and_dog_model.h5
+*.h5
+*.keras
+/8_final_proj/tharhtet/dataset/car-segmentation
+/8_final_proj/tharhtet/dataset/cityscapes
+8_final_proj/tharhtet/dataset/cityscapes.zip
+8_final_proj/tharhtet/dataset/car_seg.zip

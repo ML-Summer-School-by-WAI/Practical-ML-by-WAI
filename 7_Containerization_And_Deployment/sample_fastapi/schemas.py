@@ -19,3 +19,10 @@ class textResponseModel(BaseModel):
     execution_time : int = 0 
     result : str = ""
 
+
+
+
+class image_predRequestModel(BaseModel):
+    image: str
+    class_name : str
+

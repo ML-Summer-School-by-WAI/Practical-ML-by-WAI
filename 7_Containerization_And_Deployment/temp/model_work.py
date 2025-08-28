@@ -4,6 +4,8 @@ import os
 import json
 from tensorflow.keras.preprocessing import image
 import numpy as np
+from openai import OpenAI
+
 
 class CatAndDogModel:
 
@@ -15,7 +17,7 @@ class CatAndDogModel:
         self.class_indices = None
 
 
-    def load_model(self):
+    async def load_model(self):
         print("Loading model and class indices...")
         try:
             self.model = load_model(self.model_path)
@@ -47,3 +49,25 @@ class CatAndDogModel:
         prediction = self.model.predict(img_array)[0][0]
         class_name = "dogs" if prediction > 0.5 else "cats"
         return class_name, prediction
+
+
+
+class TextGenerationModel:
+
+    def __init__(self):
+        self.client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
+
+    
+    def generate_text(self, prompt):
+        completion = self.client.chat.completions.create(
+        model="TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
+        messages=[
+            {"role": "system", "content": "Always answer in rhymes."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.7,
+        )
+        reponse = completion.choices[0].message.content
+
+
+        return reponse
