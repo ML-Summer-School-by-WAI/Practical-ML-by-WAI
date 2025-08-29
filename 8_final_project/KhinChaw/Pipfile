@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow-macos = "*"
+tensorflow-metal = "*"
+opencv-python = "*"
+scipy = "*"
+numpy = "<2"  # To avoid compatibility issues with TensorFlow
+matplotlib = "*"
+pillow = "*"
+notebook = "*"
+python-dotenv = "*"
+imgviz = "*"
+labelme = "*"
+
+[dev-packages]
+ipython = "*"
+ipykernel = "*"
+notebook = "*"
+
+[requires]
+python_version = "3.11"
