@@ -10,6 +10,9 @@ pillow = "*"
 tqdm = "*"
 jupyter = "*"
 matplotlib = "*"
+tensorflow = "==2.19.0"
+pydot = "*"
+graphviz = "*"
 
 [dev-packages]
 
