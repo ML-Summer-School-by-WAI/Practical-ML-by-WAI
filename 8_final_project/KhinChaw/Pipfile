@@ -4,8 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-tensorflow-macos = "*"
-tensorflow-metal = "*"
 opencv-python = "*"
 scipy = "*"
 numpy = "<2"  # To avoid compatibility issues with TensorFlow
@@ -17,6 +15,9 @@ imgviz = "*"
 labelme = "*"
 pydot = "*"
 graphviz = "*"
+uvicorn = "*"
+fastapi = "*"
+tensorflow = "*"
 
 [dev-packages]
 ipython = "*"
