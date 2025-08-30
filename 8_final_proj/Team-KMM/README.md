@@ -53,27 +53,30 @@ The goal of this project is to:
 Based on the folder structure in the image, here is a breakdown you can use for your README file.
 
 Team-KMM/
-├── api_endpoints/ # Contains the FastAPI application and model serving logic
-│ ├── **pycache**/
-│ ├── main.py # Main FastAPI entry point
-│ └── model_work.py # Code for model inference
-├── models/ # Directory for storing trained models
-│ ├── cat_and_dog_unet.keras# The trained UNet model
-├── notebooks/ # Jupyter notebooks for data preparation and model training
-│ ├── image_encoding.ipynb
-│ ├── labelme2voc.py
-│ ├── model.png
-│ ├── prepare_img.ipynb
-│ ├── read_pascal_voc.ipynb
-│ ├── README.md # Specific README for the notebooks directory
-│ ├── tf_lr_model_architecture.png
-│ └── u_net_transfer_learning.ipynb
-├── Dockerfile # Instructions to build the Docker image
-└── cat_and_dog_dataset.zip. # Datasets Folder
-├── Pipfile # Project dependencies (primary)
-├── Pipfile.lock # Project dependencies (locked versions)
-├── README.md # Main project README
-└── requirements.txt # A list of project dependencies
+├── 📂 api_endpoints/ # FastAPI application and model serving logic
+│ ├── 📂 pycache/ # Python cache files
+│ ├── 🐍 main.py # Main FastAPI entry point
+│ └── 🐍 model_work.py # Code for model inference
+│
+├── 📂 models/ # Directory for trained models
+│ └── 🧠 cat_and_dog_unet.keras # Trained UNet model
+│
+├── 📂 notebooks/ # Jupyter notebooks for data preparation & training
+│ ├── 📓 image_encoding.ipynb
+│ ├── 🐍 labelme2voc.py
+│ ├── 🖼️ model.png
+│ ├── 📓 prepare_img.ipynb
+│ ├── 📓 read_pascal_voc.ipynb
+│ ├── 📄 README.md # Notebook-specific README
+│ ├── 🖼️ tf_lr_model_architecture.png
+│ └── 📓 u_net_transfer_learning.ipynb
+│
+├── 🐳 Dockerfile # Instructions to build the Docker image
+├── 📦 cat_and_dog_dataset.zip # Dataset archive
+├── 📄 Pipfile # Project dependencies (primary)
+├── 📄 Pipfile.lock # Locked dependencies
+├── 📄 README.md # Main project README
+└── 📄 requirements.txt # Dependency list
 
 ## 🛠 **Installation**
 
