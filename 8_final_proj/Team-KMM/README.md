@@ -50,8 +50,7 @@ The goal of this project is to:
 
 ## 📁 **Project Structure**
 
-Based on the folder structure in the image, here is a breakdown you can use for your README file.
-
+```
 Team-KMM/
 ├── 📂 api_endpoints/ # FastAPI application and model serving logic
 │ ├── 📂 pycache/ # Python cache files
@@ -77,7 +76,7 @@ Team-KMM/
 ├── 📄 Pipfile.lock # Locked dependencies
 ├── 📄 README.md # Main project README
 └── 📄 requirements.txt # Dependency list
-
+```
 ## 🛠 **Installation**
 
 ### Clone Our Cutie Repo
