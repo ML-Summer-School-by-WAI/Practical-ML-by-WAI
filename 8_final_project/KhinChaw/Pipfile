@@ -15,6 +15,8 @@ notebook = "*"
 python-dotenv = "*"
 imgviz = "*"
 labelme = "*"
+pydot = "*"
+graphviz = "*"
 
 [dev-packages]
 ipython = "*"
