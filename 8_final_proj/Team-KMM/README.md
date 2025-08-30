@@ -43,8 +43,7 @@ The goal of this project is to:
    - Returns segmented output images!
 
 4. **Docker Deployment**
-   - Everything runs in a container 🐳  
-     !
+   - Everything runs in a container 🐳!
 
 ---
 
@@ -82,11 +81,7 @@ Team-KMM/
 ### Clone Our Cutie Repo
 
 ```bash
-git clone https://github.com/ML-Summer-School-by-WAI/Practical-ML-by-WAI/tree/main/8_final_proj
 
-
-
-
-
+git clone https://github.com/KhinChaw/Practical-ML-by-WAI/tree/Team-KMM/8_final_proj/Team-KMM
 
 ```
