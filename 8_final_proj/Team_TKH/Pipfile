@@ -13,6 +13,8 @@ matplotlib = "*"
 tensorflow = "==2.19.0"
 pydot = "*"
 graphviz = "*"
+fastapi = "*"
+uvicorn = "*"
 
 [dev-packages]
 

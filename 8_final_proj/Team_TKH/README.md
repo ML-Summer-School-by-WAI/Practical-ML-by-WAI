@@ -86,6 +86,16 @@ Open Browser
 API EndPoint - `/predict`
 
 ## Docker Deployment
+<!-- Build Image -->
+```bash
+   docker build -t cat-dog-segmentation .
+   ```
+
+   Run Container 
+
+   ```bash
+   docker run -p 8888:8888 cat-dog-segmentation
+   ```
 
 ## Results
 

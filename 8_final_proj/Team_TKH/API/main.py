@@ -1,8 +1,8 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from contextlib import asynccontextmanager
 from PIL import Image
-from utils import predictImg
-from model_work import CatAndDogModel
+from .utils import predictImg
+from .model_work import CatAndDogModel
 
 import uvicorn
 import io
