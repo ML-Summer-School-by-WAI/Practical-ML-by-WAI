@@ -74,7 +74,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [ML_Heros](./ML_Heros)
+## [ML_Heros](./8_final_proj/ML_Heros)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
