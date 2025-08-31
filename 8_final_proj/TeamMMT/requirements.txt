@@ -1,0 +1,10 @@
+python-dotenv
+matplotlib
+opencv-python-headless
+numpy
+lxml
+pillow
+tensorflow
+fastapi
+uvicorn[standard]
+python-multipart
