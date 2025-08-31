@@ -34,7 +34,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [Team_TKH](./Team_TKH)
+## [Team_TKH](./8_final_proj/Team_TKH)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -44,7 +44,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [Team_YTK](./Team_YTK)
+## [Team_YTK](./8_final_proj/Team_YTK)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -54,7 +54,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [Team-KMM](./Team-KMM)
+## [Team-KMM](./8_final_proj/Team-KMM)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -64,7 +64,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [Fantastic Three](./Fantastic%20Three)
+## [Fantastic Three](./8_final_proj/Fantastic%20Three)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -84,7 +84,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [Mysterious_Eggs](./Mysterious_Eggs)
+## [Mysterious_Eggs](./8_final_proj/Mysterious_Eggs)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -95,7 +95,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [old_ucsyers](./old_ucsyers)
+## [old_ucsyers](./8_final_proj/old_ucsyers)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -106,7 +106,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [T9](./T9)
+## [T9](./8_final_proj/T9)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
@@ -115,7 +115,7 @@ Below are all the teams and their members who successfully completed the final p
 
 ---
 
-## [Team MMT](./Team%20MMT)
+## [Team MMT](./8_final_proj/Team%20MMT)
 
 | ID | Avatar | Name | GitHub |
 |----|--------|------|--------|
