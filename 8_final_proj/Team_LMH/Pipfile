@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+fastapi = "*"
+uvicorn = "*"
+numpy = "*"
+pillow = "*"
+matplotlib = "*"
+pydot = "*"
+graphviz = "*"
+opencv-python = "*"
+keras-tuner = "*"
+python-multipart = "*"
+tensorflow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.13"

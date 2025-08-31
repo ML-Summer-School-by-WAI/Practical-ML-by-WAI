@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+opencv-python = "*"
+numpy = "*"
+pillow = "*"
+tqdm = "*"
+jupyter = "*"
+matplotlib = "*"
+tensorflow = "==2.19.0"
+pydot = "*"
+graphviz = "*"
+fastapi = "*"
+uvicorn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.16"

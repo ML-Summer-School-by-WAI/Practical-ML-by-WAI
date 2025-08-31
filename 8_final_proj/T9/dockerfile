@@ -1,0 +1,32 @@
+FROM python:3.10.18-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    libgl1 \
+    libglib2.0-0 \
+    build-essential \
+    pkg-config \
+    python3-dev \
+    libhdf5-dev \
+    && rm -rf /var/lib/apt/lists/*
+RUN pip install --no-cache-dir python-multipart
+
+# Copy Pipenv files
+COPY Pipfile Pipfile.lock ./
+
+# Install pipenv and uvicorn
+RUN pip install pipenv uvicorn
+
+# Install project dependencies
+RUN pipenv install --system --deploy
+
+# Copy project files
+COPY main.py model_work.py labelme2voc.py cat_dog_segmentation_unet.keras ./
+
+# Expose port
+EXPOSE 8000
+
+# Start FastAPI
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

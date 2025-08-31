@@ -1,0 +1,122 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+my_env/
+
+# Pipenv
+Pipfile.lock
+
+# PyTorch
+*.pth
+*.pt
+
+# TensorFlow
+*.pb
+*.h5
+saved_model/
+logs/
+checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Machine Learning datasets and models (keep only essential models)
+data_annotated/*.jpg
+data_annotated/*.jpeg
+data_annotated/*.json
+data_dataset_voc/
+!data_dataset_voc.zip
+cats_and_dogs_filtered/
+*.csv
+*.pkl
+*.pickle
+
+# Large model files (comment out if you want to include your trained model)
+# *.keras
+# *.h5
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.dockerignore
+
+# Logs
+*.log
+logs/
+training_log.txt
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Images (exclude from root and specific folders, but allow some exceptions)
+# Global image exclusions (you can comment these out if needed)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+
+# Specific folder image exclusions
+cats_and_dogs_filtered/*.jpg
+cats_and_dogs_filtered/*.jpeg
+cats_and_dogs_filtered/*.png
+test_imgs/*.jpg
+test_imgs/*.jpeg
+test_imgs/*.png
+
+# Exception: keep architecture diagrams and important images
+!tf_lr_model_architecture.png
+!model_architecture.png
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

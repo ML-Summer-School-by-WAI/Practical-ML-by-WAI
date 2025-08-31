@@ -1,0 +1,16 @@
+opencv-python
+scipy
+numpy<2
+matplotlib
+pillow
+notebook
+python-dotenv
+imgviz
+labelme
+pydot
+graphviz
+uvicorn
+fastapi
+tensorflow
+ipython
+ipykernel
