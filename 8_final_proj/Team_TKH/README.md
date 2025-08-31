@@ -8,10 +8,10 @@ Welcome to the Cat and Dog Segmentation Final Project! This repository contains 
 - [Project Workflow](#project-workflow)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Fast API Usage](#fast-api-usage)
+- [Local Fast API Usagee](#local-fast-api-usage)
 - [Docker Deployment](#docker-deployment)
 - [Results](#results)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Project Overview
@@ -82,7 +82,7 @@ Open Browser
    ```bash
    http://127.0.0.1:8000/docs
    ```
-   
+
 API EndPoint - `/predict`
 
 ## Docker Deployment
