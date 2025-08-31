@@ -13,6 +13,8 @@ It exposes endpoints to return either:
 
 ## 📂 Place Your Model
 
+Model to download => https://drive.google.com/file/d/1lbS_cL5HbV-P6PfOvGHTuAFs88H3w-ty/view?usp=sharing 
+
 Ensure the trained model file is in the **same folder as `main.py`**:
 
 ```
