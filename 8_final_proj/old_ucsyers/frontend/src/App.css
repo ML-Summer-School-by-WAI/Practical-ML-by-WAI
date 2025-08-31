@@ -1,0 +1,129 @@
+:root {
+  --fg: #0f172a;
+  --muted: #475569;
+  --brand: #2563eb;
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --border: #e2e8f0;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.container {
+  max-width: 900px;
+  margin: 32px auto;
+  padding: 0 16px;
+}
+
+header h1 {
+  margin: 0 0 6px;
+  letter-spacing: 0.2px;
+}
+.sub { color: var(--muted); margin: 0 0 16px; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+  margin: 16px 0;
+  box-shadow: 0 2px 14px rgba(15, 23, 42, 0.04);
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.field label {
+  display: block;
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+input[type="file"], select, input[type="range"] {
+  width: 100%;
+}
+
+.actions {
+  margin-top: 12px;
+  display: flex;
+  gap: 12px;
+}
+
+button {
+  background: var(--brand);
+  color: white;
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  font-weight: 600;
+}
+button:hover { filter: brightness(0.96); }
+button:disabled { opacity: 0.6; cursor: not-allowed; }
+button.ghost {
+  background: transparent;
+  border-color: var(--border);
+  color: var(--fg);
+}
+
+.note.error {
+  margin-top: 14px;
+  color: #b91c1c;
+  font-size: 14px;
+}
+
+.preview {
+  width: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+}
+
+.hint {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+footer.credits {
+  margin-top: 48px;
+  padding: 24px 16px;
+  background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
+  border-top: 2px solid #cbd5e1;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.08);
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+footer.credits h3 {
+  margin: 8px 0 4px;
+  font-size: 16px;
+  color: #1e293b;
+  font-weight: 600;
+}
+
+footer.credits p {
+  margin: 4px 0;
+  font-size: 14px;
+  color: #334155;
+  line-height: 1.6;
+}
+
+footer.credits .program {
+  margin-top: 12px;
+  font-size: 13px;
+  font-style: italic;
+  color: #475569;
+}

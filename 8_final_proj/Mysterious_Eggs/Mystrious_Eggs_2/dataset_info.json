@@ -1,0 +1,17 @@
+{
+  "dataset_info": {
+    "total_samples": 204,
+    "training_samples": 163,
+    "validation_samples": 41,
+    "image_size": 128,
+    "num_classes": 2
+  },
+  "statistics": {
+    "background_ratio": 0.6240059988839286,
+    "animal_ratio": 0.37599400111607145
+  },
+  "class_mapping": {
+    "0": "background",
+    "1": "animal"
+  }
+}

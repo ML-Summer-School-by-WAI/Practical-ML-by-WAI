@@ -1,0 +1,50 @@
+# Dataset files
+dataset/
+
+# Model files (Large ML model files)
+*.keras
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.ckpt
+*.pb
+*.pth
+*.pt
+*.onnx
+*.tflite
+*.weights
+saved_models/
+models/
+checkpoints/
+best_model*
+*_model*
+model_*
+
+
+
+
+
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+# Logs and temporary files
+# Docker
+.dockerignore

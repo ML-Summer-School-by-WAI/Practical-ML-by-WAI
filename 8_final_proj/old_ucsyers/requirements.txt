@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+numpy
+opencv-python-headless
+python-multipart
+
+# For model loading
+tensorflow>=2.11
+
