@@ -8,7 +8,6 @@
 
 ## Project Overview
 This project focuses on image segmentation of cats and dogs using deep learning techniques. We utilize a dataset of cat and dog images to train a model that can accurately segment these animals from the background. The project is implemented using U-Net architecture with transfer learning.
-
 ---
 
 ## Project Structure
