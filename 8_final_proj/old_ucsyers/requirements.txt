@@ -1,7 +1,8 @@
 fastapi
 uvicorn[standard]
 numpy
-opencv-python
+opencv-python-headless
+python-multipart
 
 # For model loading
 tensorflow>=2.11
