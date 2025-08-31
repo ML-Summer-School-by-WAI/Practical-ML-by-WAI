@@ -9,7 +9,9 @@ from tensorflow.keras.models import load_model
 app = FastAPI(title="Image Segmentation API")
 
 
-MODEL_PATH = "ML_Heros_model.h5"
+# MODEL_PATH = "ML_Heros_model.h5"
+MODEL_PATH = "8_final_proj\ML_Heros\ML_Heros_model.keras"
+
 model = load_model(MODEL_PATH)
 
 IMG_HEIGHT, IMG_WIDTH = 128, 128
