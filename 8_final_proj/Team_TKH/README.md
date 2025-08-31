@@ -80,7 +80,7 @@ The project uses a custom annotated dataset containing cats and dogs. Please ref
 4. **API ENDPOINT**
 Open Browser
    ```bash
-   http://127.0.0.1:8000/docs
+   http://127.0.0.1:8888/docs or update as you prefer to use different port
    ```
 
 API EndPoint - `/predict`
