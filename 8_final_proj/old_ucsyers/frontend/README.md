@@ -36,11 +36,6 @@ yarn
 
 Create a `.env` file in this `frontend` folder and set your backend URL.
 
-For **Vite**:
-```
-VITE_API_BASE_URL=http://localhost:8888
-```
-
 For **Create React App**:
 ```
 REACT_APP_API_BASE_URL=http://localhost:8888
@@ -64,7 +59,7 @@ npm start
 yarn start
 ```
 
-App will start on something like `http://localhost:5173` (Vite) or `http://localhost:3000` (CRA).
+App will start on something like `http://localhost:3000`.
 
 ---
 
