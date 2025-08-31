@@ -5,7 +5,7 @@ Welcome to the Cat and Dog Segmentation Final Project! This repository contains 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Features](#features)
+- [Project Workflow](#project-workflow)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Fast API Usage](#fast-api-usage)
@@ -78,9 +78,11 @@ The project uses a custom annotated dataset containing cats and dogs. Please ref
    ```
 
 4. **API ENDPOINT**
-
-Open Browser - http://127.0.0.1:8000/docs
-
+Open Browser
+   ```bash
+   http://127.0.0.1:8000/docs
+   ```
+   
 API EndPoint - `/predict`
 
 ## Docker Deployment
@@ -89,12 +91,12 @@ API EndPoint - `/predict`
 
 You can find sample results and visualizations in the [results/](results/) directory.
 
-![MobileNetV2 Predicted Mask](results/mask_cat.png)
+![MobileNetV2 Predicted Mask](results/cat_prediction.png)
 _Figure 1 - Predicted Mask for Cat_
 
 ---
 
-![MobileNetV2 Predicted Mask](results/mask_dog.png)
+![MobileNetV2 Predicted Mask](results/dog_prediction.png)
 _Figure 2 - Predicted Mask for Dog_
 
 ---
