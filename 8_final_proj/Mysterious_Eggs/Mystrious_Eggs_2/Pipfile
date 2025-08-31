@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow = ">=2.13.0"
+numpy = ">=1.24.0"
+matplotlib = ">=3.7.0"
+pillow = ">=10.0.0"
+opencv-python = ">=4.8.0"
+scikit-learn = ">=1.3.0"
+gunicorn = ">=21.0.0"
+flask = "*"
+
+[dev-packages]
+pytest = "*"
+black = "*"
+flake8 = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"
