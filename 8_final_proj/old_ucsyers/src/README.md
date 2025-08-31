@@ -11,38 +11,6 @@ It exposes endpoints to return either:
 ## 📦 Setup
 
 
-
-### Install dependencies
-Create a `requirements.txt` and install:
-
-#### For Intel/AMD CPUs (Linux, Windows, Intel Mac):
-```txt
-fastapi
-uvicorn[standard]
-numpy
-opencv-python
-tensorflow>=2.11
-h5py
-```
-
-#### For Apple Silicon (M1/M2/M3 Macs):
-```txt
-fastapi
-uvicorn[standard]
-numpy
-opencv-python
-tensorflow-macos
-tensorflow-metal
-h5py
-```
-
-Then install:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 📂 Place Your Model
 
 Ensure the trained model file is in the **same folder as `main.py`**:
