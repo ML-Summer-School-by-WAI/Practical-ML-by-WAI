@@ -1,0 +1,62 @@
+Cat-Dog Segmentation
+
+ML013_MIN SHIN THIHA
+ML003_KYAW TUN NAY
+
+This project provides a FastAPI application to predict cat and dog segmentation masks on uploaded images using a U-Net model. The API can be run locally or via Docker.
+
+⸻
+
+Project Structure
+
+T9/
+├─ cat_dog_segmentation_unet.keras   # Pre-trained UNet model
+├─ main.py                           # FastAPI application
+├─ model_work.py                     # Model loading & prediction logi
+├─ Pipfile / Pipfile.lock            # Dependencies
+├─ labelme2voc.py                    # Labeling 
+├─ unet_transfer_learning.ipynb      # Notebook for training / transfer learning
+└─ image_encoding.ipynb              # Encoder
+└─ Images                            # Datasets
+
+
+⸻
+
+Local Setup (Python / FastAPI)
+
+	1.	Clone repository:
+
+	2.	Install dependencies using pipenv
+
+	3.	Run FastAPI server:
+
+pipenv run uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+	4.	Test the API:
+
+http://127.0.0.1:8000/docs
+
+You can upload an image under the /predict endpoint and see the segmentation overlayed on the image.
+
+⸻
+
+Using Docker
+
+	1.	Build Docker image:
+
+docker build -t catdog-api .
+
+	2.	Run Docker container:
+
+docker run -d -p 8000:8000 --name catdog-api catdog-api
+
+	3.	Access API:
+
+Open your browser:
+
+http://localhost:8000/docs
+
+Upload an image and get a PNG with predicted masks overlayed.
+
+⸻
+

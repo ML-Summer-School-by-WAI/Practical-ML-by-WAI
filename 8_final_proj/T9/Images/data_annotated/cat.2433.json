@@ -1,0 +1,128 @@
+{
+  "version": "5.8.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          45.75,
+          33.949999999999996
+        ],
+        [
+          50.35000000000001,
+          30.449999999999996
+        ],
+        [
+          56.14999999999999,
+          27.250000000000007
+        ],
+        [
+          57.95,
+          19.15
+        ],
+        [
+          57.64999999999999,
+          11.050000000000004
+        ],
+        [
+          53.14999999999999,
+          8.050000000000004
+        ],
+        [
+          45.25,
+          4.550000000000004
+        ],
+        [
+          39.150000000000006,
+          4.050000000000004
+        ],
+        [
+          32.05,
+          2.75
+        ],
+        [
+          27.049999999999997,
+          2.75
+        ],
+        [
+          21.25,
+          2.1499999999999986
+        ],
+        [
+          14.049999999999997,
+          1.9500000000000028
+        ],
+        [
+          11.450000000000003,
+          6.25
+        ],
+        [
+          6.8500000000000085,
+          9.25
+        ],
+        [
+          5.450000000000003,
+          12.25
+        ],
+        [
+          0.6500000000000057,
+          13.850000000000001
+        ],
+        [
+          0.15000000000000568,
+          13.850000000000001
+        ],
+        [
+          0.0,
+          17.60000000000009
+        ],
+        [
+          0.0,
+          26.250000000000007
+        ],
+        [
+          2.1500000000000057,
+          27.750000000000007
+        ],
+        [
+          2.75,
+          33.550000000000004
+        ],
+        [
+          3.6500000000000057,
+          35.25000000000001
+        ],
+        [
+          5.950000000000003,
+          36.949999999999996
+        ],
+        [
+          13.990909090909081,
+          40.0
+        ],
+        [
+          23.85000000000001,
+          40.0
+        ],
+        [
+          32.150000000000006,
+          39.25000000000001
+        ],
+        [
+          39.85000000000001,
+          38.050000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "cat.2433.jpg",
+  "imageData": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAApADsDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDx/wAiTzmiSPLK20n3rpD4XvbazW9ll8t4osnHIb2z34OCPatDQ/Cb67qhWW5WCJPmfByzA/3fT6/zrtrTw/qduTaH94AQY2YHaw7559qUnyu3Ur6tOLamrHOWniMTxx3V0PIlVVWNrdSqDAxkAcDgCuxuIYPF+k7W1BZ7dbjzFMEXl+WwUjbz/vd/aki8MWtnHJLM6q2DxGoKrxjuP8KrxQzQ2RgtCY4WJZpDkM59cdqlyetilFO19bDYfB+nRSf8hW8U55BkVh+q0/U/B5urN4bXUFJIxmReT+XSksrGY3UQaRpm3DILHpWxqFvaiOUKwEvVj6VCjc0vbQ8g1jwnrPh5hJcKFt1+7LH+8T/9f1FRL4k1JFC7Imx32rzXrdwiSW7hAXUoQ0Z5H4V5ZqWlraahNDb6e80QOUfd2Izj8M4/CqUU9zB3Xws9F0nQ7WwvYrlp23RnK7iFGen411ckzNxk4rzvw6U1i0R57iUH7rhSB81drPL5VvhScn5V71VRtyfNujsrzU7NSbK983nttJHlIcEepp1vskjII9aqRqQzwyn51GSSauQx7WLLnbt59qgySsS6PiSSfAUkHB47VHqmjLcTibYQ+R8wk25GRnn6Z/OmaZN5F3KxXCFuCK6JJGuFLbOOzMMD602uwjA0/TooleFPMc4G6STPH1JrzzXdctLbW7uGIblR8Zx1OBn9c12/i3xTBpFnJY2DrJfOPuhhkZ7/AP1q8ZkubjzG3TTbs85zmqjF9TnqVFF2R2PgTWtO03ULq2v3KxTopWRl+VSCeP1PPtXpqQW2pWyfYb+F0znMbBv614NF/wAfA/3h/OtnRf8Aj4u/+uUf/oS10Yimm7k0qjR7CfDcs3LzLkdCAc1YXREghKzX+1CfmIwP8a5nTf8Aj0t/+uh/kK4bxV/x+1gqaNXVZ6lJq3hnSZJIxcxyTR5eT5t+3Hrjgfjj0rh9b+Jb6kktpZCSyiPC3AALfivYdOQSRWX4h/5Bc3+/B/6LNcgauMEc1WvJFuaxupZ9xdZBIS5nDZU+pJ7fjzVV/ENrbOYUtpZ1TgSmbaW98dqtQf8AIB1b/dj/AJmuUom9Qgrq5//Z",
+  "imageHeight": 41,
+  "imageWidth": 59
+}
