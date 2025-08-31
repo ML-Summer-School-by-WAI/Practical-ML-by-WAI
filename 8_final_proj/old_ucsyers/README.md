@@ -148,7 +148,7 @@ The app runs at  `http://localhost:3000`.
 
 ### Environment Variables
 Create a `.env` inside `frontend/` and set your backend URL:
-
+```sh
 REACT_APP_API_BASE_URL=http://localhost:8888
 ```
 
