@@ -181,3 +181,9 @@ cython_debug/
 /8_final_proj/tharhtet/dataset/cityscapes
 8_final_proj/tharhtet/dataset/cityscapes.zip
 8_final_proj/tharhtet/dataset/car_seg.zip
+
+
+8_final_proj/ML_Heros/data_dataset_voc
+8_final_proj/ML_Heros/data_annotated
+
+8_final_proj/ML_Heros/data_dataset_voc.zip
