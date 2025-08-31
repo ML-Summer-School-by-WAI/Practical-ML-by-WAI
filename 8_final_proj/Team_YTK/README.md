@@ -1,9 +1,9 @@
 # Cat and Dog Semantic Segmentation Project
 
 ## Team Members
-- **Ye Bhone Lin**
-- **Te Nyain Moe Lwin** 
-- **Khant Nyar KoKo**
+- **[Ye Bhone Lin](https://github.com/Ye-Bhone-Lin)**
+- **[Te Nyain Moe Lwin](https://github.com/T-N9)** 
+- **[Khant Nyar KoKo](https://github.com/Khant-Nyar-Ko-Ko)**
 
 ## Project Overview
 
@@ -250,4 +250,4 @@ This project is developed for educational purposes as part of the Practical ML b
 ---
 
 **Team YTK** - Cat and Dog Semantic Segmentation Project  
-*Ye Bhone Lin | Te Nyain Moe Lwin | Khant Nyar KoKo*
+*[Ye Bhone Lin](https://github.com/Ye-Bhone-Lin) | [Te Nyain Moe Lwin](https://github.com/T-N9) | [Khant Nyar KoKo](https://github.com/Khant-Nyar-Ko-Ko)*
