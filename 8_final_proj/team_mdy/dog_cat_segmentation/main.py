@@ -48,25 +48,15 @@ app = FastAPI(title="Cat & Dog Segmentation API", version="1.0")
 async def load_models():
     try:
         seg_model = SemanticSegmentation()
-        # Try different possible model paths
-        model_paths = ["model/dog_cat.h5", "dog_cat.h5", "cat_dog.h5", "model/cat_dog.h5"]
-        model_loaded = False
-        
-        for path in model_paths:
-            try:
-                seg_model.load_model(path)
-                print(f"Model loaded successfully from: {path}")
-                model_loaded = True
-                break
-            except FileNotFoundError:
-                print(f"Model not found at: {path}")
-                continue
-        
-        if not model_loaded:
-            print("Warning: No model file found. Please ensure a model file exists.")
-            # Create a dummy model for testing
-            seg_model = None
-        
+        model_path = "model/cat_dog_segmentation_unet.keras" 
+
+        try:
+            seg_model.load_model(model_path)
+            print(f"Model loaded successfully from: {model_path}")
+        except FileNotFoundError:
+            print(f"Model not found at: {model_path}")
+            seg_model = None  # fallback to None if missing
+
         ml_models["seg_model"] = seg_model
     except Exception as e:
         print(f"Error loading model: {e}")
