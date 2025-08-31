@@ -1,4 +1,4 @@
-# 🐱🐶 Cat-Dog Image Segmentation (WAI Summer Class Project by ML_Heros)
+# Cat-Dog Image Segmentation (WAI Summer Class Project by ML_Heros)
 
 ## 📌 Project Overview
 This project is the **final project of the WAI Practical Machine Learning course**.  
@@ -70,4 +70,3 @@ A **FastAPI service** allows users to upload images and get segmentation masks o
 ```bash
     docker build -t catdog-seg .
     docker run -p 8000:8000 catdog-seg
-```
