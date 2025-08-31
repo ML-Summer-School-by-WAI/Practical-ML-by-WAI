@@ -33,6 +33,13 @@ Below are all the teams and their members who successfully completed the final p
 
 
 ---
+## [Team AI](./8_final_proj/Team%20AI)
+| ID | Avatar | Name | GitHub |
+|----|--------|------|--------|
+| ML011 | <img src="https://github.com/digitalsuyee.png" width="50" height="50" style="border-radius:50%;"> | **Su Yee Mon** | [@digitalsuyee](https://github.com/digitalsuyee) |
+| ML002 | <img src="https://github.com/kyawminthu20.png" width="50" height="50" style="border-radius:50%;"> | **Kyaw Min Thu** | [@kyawminthu20](https://github.com/kyawminthu20) |
+| ML004 | <img src="https://github.com/feniz24.png" width="50" height="50" style="border-radius:50%;"> | **Thant Htet Oo** | [@feniz24](https://github.com/feniz24) |
+
 
 ## [Team_TKH](./8_final_proj/Team_TKH)
 
