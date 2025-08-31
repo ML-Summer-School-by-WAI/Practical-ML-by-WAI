@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+opencv-python = "*"
+tensorflow = "==2.19.0"
+scipy = "*"
+python-dotenv = "*"
+
+[dev-packages]
+tensorflow-macos = "*"
+tensorflow-metal = "*"
+ipython = "*"
+matplotlib = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"

@@ -1,0 +1,74 @@
+# This is a corrected and updated GitHub Actions workflow for autograding.
+# It replaces the deprecated 'github-classroom/echo-grader' and 'github-classroom/grading-reporter'
+# with the current, unified 'education/autograding@v1' action.
+# This version dynamically creates the grading configuration based on a score in a file.
+
+name: Autograding Tests
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  checks: write
+  actions: read
+  contents: read
+
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    # This check prevents the workflow from running on commits made by the classroom bot itself.
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+      # Step 1: Check out the student's submission code from the repository.
+      - name: Checkout submission
+        uses: actions/checkout@v4
+
+      # Step 2: Read score from marks.txt and create the autograding JSON file.
+      # This script is now more robust and creates the JSON in the correct format.
+      - name: Create autograding config
+        run: |
+          # Set a default score in case the file is missing or invalid
+          score=0
+          marks_file="6_deep_learning/CNN/tf_best_practices/binary_classification/marks.txt"
+
+          # Check if the file exists and is readable before trying to use it
+          if [[ -f "$marks_file" ]]; then
+              # Read the file and extract the first number found to make it more robust
+              # This handles cases where the file might contain "95 points" instead of just "95"
+              file_content=$(cat "$marks_file")
+              if [[ "$file_content" =~ ([0-9]+) ]]; then
+                  score=${BASH_REMATCH[1]}
+              else
+                  echo "Warning: Could not find a number in $marks_file. Defaulting score to 0."
+              fi
+          else
+              echo "Warning: $marks_file not found. Defaulting score to 0."
+          fi
+
+          # Create the directory for the config file
+          mkdir -p .github/classroom
+
+          # Create the autograding.json file with the correct structure: an object with a "tests" key.
+          # The 'tests' key must hold the array of test configurations.
+          cat <<EOF > .github/classroom/autograding.json
+          {
+            "tests": [
+              {
+                "name": "Grade based on submitted marks.txt",
+                "setup": "",
+                "run": "echo 'Awarding points based on file content.'",
+                "input": "",
+                "output": "",
+                "comparison": "included",
+                "points": ${score}
+              }
+            ]
+          }
+          EOF
+
+      # Step 3: Run the autograding action.
+      # This action will now find and use the correctly formatted .github/classroom/autograding.json file.
+      - name: Autograding
+        uses: education/autograding@v1

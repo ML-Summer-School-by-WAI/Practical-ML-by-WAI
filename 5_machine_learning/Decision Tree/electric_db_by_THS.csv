@@ -1,0 +1,501 @@
+MonthlyCharges,TotalCharges,Contract,Dependents,SeniorCitizen,InternetService,PaymentMethod,Tenure,Churn
+57.454011884736246,3505.9004843977386,Month-to-month,No,0,No,Bank transfer (automatic),35,No
+115.07143064099162,2703.677013403396,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),51,No
+93.1993941811405,1582.1617006173224,Two year,Yes,1,Fiber optic,Electronic check,37,Yes
+79.86584841970367,4078.2853475493957,One year,No,0,No,Bank transfer (automatic),57,No
+35.601864044243655,3439.4193041417025,One year,No,0,DSL,Bank transfer (automatic),8,No
+35.59945203362027,854.953849757212,One year,No,0,DSL,Credit card (automatic),20,No
+25.808361216819947,4559.08956324452,One year,No,0,No,Credit card (automatic),53,No
+106.61761457749351,4121.559352469687,One year,No,0,Fiber optic,Electronic check,12,Yes
+80.11150117432088,4751.509570795024,Month-to-month,No,0,No,Bank transfer (automatic),49,Yes
+90.80725777960456,3642.311566522382,Month-to-month,No,0,No,Electronic check,17,No
+22.058449429580243,3086.4052198821596,Month-to-month,No,0,DSL,Mailed check,64,No
+116.99098521619943,2120.303029638563,Two year,No,0,No,Electronic check,42,Yes
+103.24426408004217,4667.005992602366,Two year,No,1,Fiber optic,Mailed check,29,Yes
+41.23391106782761,4337.016253027022,Month-to-month,Yes,0,Fiber optic,Mailed check,19,Yes
+38.18249672071006,273.83241702563754,One year,Yes,0,Fiber optic,Bank transfer (automatic),11,No
+38.34045098534338,180.51652376139742,Two year,Yes,0,No,Mailed check,50,No
+50.42422429595377,1913.4936660463454,Month-to-month,No,0,DSL,Bank transfer (automatic),71,Yes
+72.47564316322378,4062.2389873700727,Month-to-month,No,1,Fiber optic,Mailed check,58,No
+63.194501864211574,4937.016840108975,Two year,Yes,0,Fiber optic,Electronic check,34,No
+49.12291401980419,794.5636109624645,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),20,No
+81.18528947223794,2990.947040993069,One year,Yes,1,Fiber optic,Electronic check,50,Yes
+33.94938606520418,1935.4097403235564,Month-to-month,No,0,DSL,Mailed check,10,Yes
+49.21446485352182,4851.076269182286,Two year,No,1,DSL,Bank transfer (automatic),32,No
+56.63618432936917,4218.488669521758,Two year,Yes,0,Fiber optic,Mailed check,52,No
+65.6069984217036,4199.727088320133,Two year,No,0,No,Electronic check,15,No
+98.51759613930136,2370.031140985103,Month-to-month,Yes,0,DSL,Mailed check,3,Yes
+39.96737821583597,2103.3565365714426,Two year,Yes,0,DSL,Credit card (automatic),37,No
+71.42344384136116,1403.365006056996,One year,No,1,No,Bank transfer (automatic),40,No
+79.24145688620425,329.05870842208924,Month-to-month,No,0,DSL,Bank transfer (automatic),40,Yes
+24.645041271999773,4330.375762462513,One year,No,0,No,Bank transfer (automatic),56,No
+80.75448519014384,4073.859995193884,Month-to-month,No,0,Fiber optic,Electronic check,23,Yes
+37.05241236872915,4998.602482766347,Month-to-month,No,0,No,Mailed check,11,Yes
+26.50515929852795,4983.352343515831,Month-to-month,No,0,DSL,Bank transfer (automatic),64,Yes
+114.88855372533332,2799.386942733006,Month-to-month,Yes,1,DSL,Electronic check,8,Yes
+116.56320330745594,3856.487705143527,Month-to-month,No,0,Fiber optic,Electronic check,56,No
+100.83973481164611,4726.590362918018,One year,Yes,0,No,Electronic check,60,Yes
+50.46137691733707,4255.754583853187,Month-to-month,Yes,0,Fiber optic,Mailed check,10,No
+29.767211400638388,1274.3731036288284,One year,No,0,DSL,Credit card (automatic),39,No
+88.42330265121569,2280.193469784963,Month-to-month,Yes,0,Fiber optic,Electronic check,28,No
+64.01524937396013,689.3391049999002,Month-to-month,No,0,Fiber optic,Mailed check,49,Yes
+32.20382348447788,4772.552584930676,Month-to-month,No,1,Fiber optic,Electronic check,36,No
+69.51769101112701,3050.5644405318562,One year,Yes,0,Fiber optic,Credit card (automatic),13,No
+23.43885211152184,1181.7818872421406,Month-to-month,No,0,No,Electronic check,36,Yes
+110.9320402078782,3374.9183878089907,One year,Yes,0,Fiber optic,Mailed check,26,Yes
+45.877998160001695,3109.7347902665842,Two year,No,1,DSL,Bank transfer (automatic),4,No
+86.2522284353982,1822.9054542625604,One year,No,0,Fiber optic,Bank transfer (automatic),64,Yes
+51.17110760894109,612.1100813881636,Month-to-month,No,0,DSL,Mailed check,38,Yes
+72.00680211778108,3374.287318184358,Month-to-month,No,0,Fiber optic,Mailed check,22,Yes
+74.67102793432797,2625.5231194737767,Two year,Yes,0,Fiber optic,Mailed check,2,Yes
+38.485445552552704,3872.976039091415,Month-to-month,No,0,DSL,Electronic check,31,Yes
+116.95846277645586,2624.809330504367,Two year,No,0,DSL,Electronic check,11,Yes
+97.51328233611146,4268.298426576774,Month-to-month,No,0,DSL,Mailed check,46,No
+113.9498941564189,2781.9388519337035,Two year,No,0,No,Electronic check,62,Yes
+109.48273504276489,2826.642959100162,One year,No,1,No,Electronic check,69,Yes
+79.78999788110852,4389.435333158808,Two year,Yes,1,DSL,Bank transfer (automatic),64,No
+112.18742350231169,2047.2401877513653,Month-to-month,Yes,0,No,Credit card (automatic),10,No
+28.84925020519195,713.3753808306716,One year,No,0,Fiber optic,Bank transfer (automatic),40,No
+39.59828624191452,192.47424775102792,Month-to-month,No,0,DSL,Electronic check,24,Yes
+24.522728891053806,3787.929415584414,Month-to-month,No,0,DSL,Electronic check,44,Yes
+52.53303307632643,3120.53227919965,One year,No,0,Fiber optic,Credit card (automatic),60,No
+58.8677289689482,3535.1948520911565,Two year,No,0,Fiber optic,Electronic check,62,No
+47.13490317738959,1104.172599469108,Two year,Yes,0,Fiber optic,Electronic check,17,No
+102.87375091519293,725.0388041545103,One year,No,1,DSL,Bank transfer (automatic),65,Yes
+55.67533266935893,121.99609505601555,Month-to-month,Yes,0,DSL,Bank transfer (automatic),57,Yes
+48.093450968738075,1785.408416092655,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),55,Yes
+74.26960831582484,2970.092549930434,One year,No,0,DSL,Electronic check,53,No
+34.092422497476264,1991.608023243675,Month-to-month,No,0,DSL,Electronic check,56,Yes
+100.21969807540397,2215.5008640174588,Month-to-month,Yes,0,DSL,Credit card (automatic),9,Yes
+27.455064367977084,4525.585537744055,Month-to-month,No,0,No,Electronic check,22,No
+118.68869366005173,1773.8645617653367,Month-to-month,No,0,No,Bank transfer (automatic),13,No
+97.22447692966574,2594.2479713410635,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),48,Yes
+39.87156815341724,3929.0824130686583,Month-to-month,Yes,0,No,Bank transfer (automatic),18,Yes
+20.55221171236024,2012.8867724902873,Month-to-month,No,0,DSL,Mailed check,40,No
+101.54614284548342,3129.3291661279736,Month-to-month,No,1,Fiber optic,Electronic check,17,No
+90.68573438476172,4318.700358296389,Two year,Yes,1,DSL,Bank transfer (automatic),15,Yes
+92.90071680409874,4750.127087105328,Month-to-month,Yes,1,Fiber optic,Credit card (automatic),15,No
+97.12703466859458,778.0137305987378,Month-to-month,Yes,0,No,Credit card (automatic),63,No
+27.404465173409037,4636.608744549398,One year,No,0,Fiber optic,Electronic check,39,No
+55.84657285442726,2485.975650743714,Month-to-month,No,1,Fiber optic,Electronic check,13,Yes
+31.58690595251297,1328.3097220798438,Two year,No,0,Fiber optic,Credit card (automatic),32,No
+106.31034258755935,2322.7219933793936,One year,Yes,0,DSL,Bank transfer (automatic),9,Yes
+82.32981268275579,4901.161247663112,Month-to-month,No,0,No,Credit card (automatic),40,No
+53.08980248526492,2488.4595652647045,Month-to-month,No,0,Fiber optic,Electronic check,20,Yes
+26.355835028602364,1677.3204709231657,Two year,No,1,Fiber optic,Bank transfer (automatic),63,No
+51.098232171566224,3185.3342288677927,Two year,No,0,Fiber optic,Bank transfer (automatic),44,No
+52.518332202674706,1238.7208129520557,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),38,Yes
+92.96061783380641,425.5234741378864,One year,No,0,DSL,Mailed check,60,No
+83.75574713552132,687.9546234577136,Month-to-month,No,0,Fiber optic,Electronic check,71,Yes
+108.72127425763266,683.8269028409736,Two year,No,1,DSL,Bank transfer (automatic),48,Yes
+67.22149251619493,801.918332885857,Month-to-month,No,0,Fiber optic,Electronic check,18,Yes
+31.95942459383017,737.1945046145802,Two year,No,0,No,Mailed check,16,No
+91.3244787222995,3222.3299867759124,One year,No,1,No,Credit card (automatic),55,Yes
+96.07850486168974,950.3064177757669,One year,Yes,0,Fiber optic,Mailed check,39,No
+76.12771975694962,1761.053052453123,Month-to-month,Yes,0,Fiber optic,Credit card (automatic),68,Yes
+97.0967179954561,4489.102629034758,Month-to-month,No,0,DSL,Electronic check,59,Yes
+69.37955963643907,2396.110119301218,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),62,Yes
+72.2732829381994,3354.4108056790847,Month-to-month,Yes,0,DSL,Credit card (automatic),13,Yes
+62.75410183585496,902.9833624480677,Month-to-month,Yes,0,Fiber optic,Electronic check,6,Yes
+22.54191267440952,1001.8306431029204,One year,Yes,0,DSL,Electronic check,60,No
+30.789142699330444,252.29965051907038,Month-to-month,No,0,DSL,Mailed check,14,Yes
+23.142918568673426,886.2285622072145,Month-to-month,Yes,1,Fiber optic,Electronic check,54,No
+83.64104112637804,1429.022178208195,Two year,No,0,DSL,Bank transfer (automatic),4,Yes
+51.435598107632664,926.2018971698967,Two year,Yes,0,Fiber optic,Credit card (automatic),39,No
+70.85706911647027,489.0775420974253,Two year,No,0,DSL,Mailed check,25,No
+110.7566473926093,647.147561947974,Two year,Yes,0,DSL,Electronic check,32,Yes
+44.9292229148875,2330.8549017619926,Month-to-month,No,0,Fiber optic,Mailed check,59,Yes
+61.038292303562976,1071.351906108673,Month-to-month,Yes,1,DSL,Bank transfer (automatic),63,Yes
+95.55511385430486,1853.1358121879734,One year,No,1,DSL,Electronic check,38,Yes
+42.87981654916224,2541.9154907315415,One year,Yes,0,Fiber optic,Bank transfer (automatic),53,No
+27.6979909828793,3467.454401715358,Month-to-month,No,1,DSL,Bank transfer (automatic),67,Yes
+48.975145291376805,244.59509221343973,One year,No,0,No,Bank transfer (automatic),28,No
+36.122128725400444,4007.081474599761,Month-to-month,No,0,DSL,Electronic check,3,Yes
+112.96976523425731,3158.1069279799935,Month-to-month,No,0,DSL,Bank transfer (automatic),22,No
+100.8120379564417,454.70720814691595,Month-to-month,No,1,Fiber optic,Electronic check,38,Yes
+83.34037565104235,4374.214189328547,Month-to-month,No,0,DSL,Electronic check,62,Yes
+107.14605901877177,4608.318382632475,Month-to-month,No,0,DSL,Credit card (automatic),57,No
+100.36720768991145,352.33590128157556,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),6,No
+38.657005888603585,1420.5443583286585,Two year,No,0,DSL,Electronic check,32,No
+109.25589984899777,4040.6963349756534,Month-to-month,No,0,No,Electronic check,10,Yes
+73.93422419156508,3753.885467399109,Month-to-month,No,1,DSL,Electronic check,3,Yes
+100.74401551640625,963.3790458140678,Two year,No,1,Fiber optic,Electronic check,59,Yes
+109.60912999234932,1086.279150516716,Two year,Yes,0,No,Electronic check,49,Yes
+51.80034749718639,1883.8369088173408,Two year,No,1,Fiber optic,Electronic check,59,No
+31.005192452767677,2448.3887766955554,One year,No,0,No,Mailed check,31,No
+42.79351625419417,3110.361119074965,One year,Yes,1,Fiber optic,Bank transfer (automatic),69,No
+62.71077886262563,1876.1225158703735,Month-to-month,No,0,No,Bank transfer (automatic),62,No
+101.80147659224932,2339.5468448590823,Month-to-month,Yes,0,DSL,Bank transfer (automatic),52,No
+106.07305832563435,3749.9811437620947,Month-to-month,No,0,Fiber optic,Electronic check,41,No
+20.69521305311907,231.5818543084596,Month-to-month,Yes,1,Fiber optic,Credit card (automatic),31,No
+71.07473025775657,1299.5628745029028,Month-to-month,No,0,Fiber optic,Credit card (automatic),22,Yes
+61.7411003148779,3581.0804501285347,One year,No,0,Fiber optic,Credit card (automatic),4,Yes
+42.21078104707303,4481.273846551637,Month-to-month,No,0,Fiber optic,Credit card (automatic),13,Yes
+31.98653673336828,2582.8033384725472,Month-to-month,No,0,DSL,Credit card (automatic),45,Yes
+53.7615171403628,2683.9617520633124,Month-to-month,No,0,DSL,Mailed check,42,Yes
+114.29097039125192,580.5014561318915,One year,No,0,Fiber optic,Electronic check,49,Yes
+52.320293202075526,2264.6912157761003,Month-to-month,Yes,1,Fiber optic,Bank transfer (automatic),20,Yes
+71.87906217433661,2686.4554689523648,Two year,No,0,No,Bank transfer (automatic),54,No
+90.30189588951778,1250.2289929919118,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),36,No
+56.3629602379294,1382.7539931994359,Month-to-month,No,0,No,Mailed check,1,Yes
+117.17820827209607,1917.5566073678822,Month-to-month,No,1,Fiber optic,Electronic check,15,Yes
+116.24472949421113,149.3524289997455,One year,No,1,DSL,Mailed check,17,No
+45.17822958253642,1644.2918696367326,Month-to-month,No,0,DSL,Credit card (automatic),24,Yes
+69.72485058923854,1096.667634632896,One year,No,0,Fiber optic,Bank transfer (automatic),58,No
+50.087830981676966,1671.1118932806776,Month-to-month,No,0,Fiber optic,Mailed check,23,Yes
+48.48404943774676,642.8225525052935,Month-to-month,Yes,0,DSL,Electronic check,46,Yes
+23.68869473545328,4458.11003966248,Two year,No,1,Fiber optic,Mailed check,8,Yes
+80.95643339798968,2988.282645092541,One year,Yes,0,No,Credit card (automatic),59,Yes
+70.26790232288614,3411.5564797652237,One year,No,0,Fiber optic,Bank transfer (automatic),59,No
+25.147875124998937,3956.3976311063248,Two year,No,0,Fiber optic,Bank transfer (automatic),13,No
+47.86464642366114,2517.2888846988335,Two year,No,1,Fiber optic,Mailed check,39,No
+110.82658859666537,480.25542603274727,One year,Yes,0,DSL,Bank transfer (automatic),28,Yes
+43.95618906669724,2708.6773820018116,One year,No,0,Fiber optic,Electronic check,61,No
+34.48948720912231,2954.8635342033517,One year,Yes,0,Fiber optic,Bank transfer (automatic),16,No
+68.94527602775631,3739.9253972124334,One year,No,1,DSL,Mailed check,2,No
+118.56504541106007,2186.714753836913,One year,Yes,0,Fiber optic,Mailed check,17,Yes
+44.205527151150044,681.5224988380406,One year,No,0,Fiber optic,Bank transfer (automatic),30,No
+87.21355474058785,1454.6907337036862,Month-to-month,No,0,No,Credit card (automatic),13,No
+96.16196153287176,1847.2573671732437,Two year,No,0,No,Electronic check,13,No
+43.763754399239964,3247.290344591426,Two year,No,0,DSL,Credit card (automatic),43,No
+92.82163486118596,2875.352608111114,Month-to-month,No,0,Fiber optic,Electronic check,21,No
+56.77831327192532,1812.6787931943388,One year,No,0,Fiber optic,Mailed check,55,No
+83.23058305935795,4933.25048152525,Month-to-month,No,0,No,Electronic check,40,Yes
+83.35297107608947,3048.5853558165913,Month-to-month,No,0,DSL,Mailed check,15,No
+73.57746840747585,1224.2726190931726,One year,No,1,Fiber optic,Mailed check,52,No
+29.02897700544083,553.8232394709985,Month-to-month,No,0,Fiber optic,Electronic check,53,Yes
+103.5302495589238,806.6527389624436,One year,No,1,DSL,Mailed check,52,No
+52.07800649717358,1267.4907555033153,One year,Yes,0,DSL,Credit card (automatic),30,No
+38.651851039985424,845.3727976348006,Month-to-month,No,0,Fiber optic,Electronic check,33,No
+24.077514155476393,973.5067690539636,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),57,No
+79.08929431882419,1461.2210850345432,Month-to-month,No,0,DSL,Mailed check,52,No
+87.75643618422824,908.1992967090364,One year,No,0,Fiber optic,Bank transfer (automatic),9,Yes
+21.658782892785617,4488.988851900805,Two year,No,0,Fiber optic,Electronic check,54,No
+71.2093058299281,447.15704102512893,One year,No,0,Fiber optic,Electronic check,1,Yes
+42.649577519793795,2646.331378372761,Month-to-month,No,1,DSL,Electronic check,44,Yes
+84.51727904094498,2081.4642935988245,One year,No,0,No,Electronic check,9,Yes
+37.436642900499145,4912.774153697602,Month-to-month,No,1,DSL,Electronic check,32,Yes
+89.09377381024659,604.5925657318592,One year,Yes,0,Fiber optic,Bank transfer (automatic),15,Yes
+58.67353463005374,2019.3852152764211,Month-to-month,No,0,DSL,Credit card (automatic),12,Yes
+113.67299887367345,4848.878644713076,One year,Yes,0,DSL,Credit card (automatic),57,Yes
+33.75209441459933,4334.260273175202,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),8,No
+54.10663510502585,4094.5067511989355,Two year,No,0,DSL,Electronic check,27,No
+31.347352124058908,1326.6189938724522,Month-to-month,No,0,No,Electronic check,62,No
+112.46936182785628,895.8935575808258,One year,No,0,DSL,Mailed check,12,Yes
+107.7339353380981,3359.7839386259334,Two year,No,0,Fiber optic,Electronic check,65,No
+45.79416277151556,4650.41114618155,Month-to-month,Yes,0,DSL,Mailed check,42,Yes
+85.99840460341791,2805.9763204189526,Two year,No,1,DSL,Mailed check,62,No
+101.72222002012158,2879.482812876004,One year,No,1,DSL,Mailed check,11,Yes
+75.52008115994623,1435.8965136184067,Month-to-month,No,0,Fiber optic,Mailed check,43,Yes
+72.96505783560065,3858.9900193000876,Month-to-month,No,0,Fiber optic,Credit card (automatic),17,Yes
+44.18522909004517,975.8665553597407,One year,No,0,Fiber optic,Bank transfer (automatic),32,No
+29.31027678058992,1652.2122202010062,Month-to-month,Yes,0,Fiber optic,Mailed check,40,Yes
+109.72157579533267,2155.910371151263,Month-to-month,No,1,Fiber optic,Credit card (automatic),23,Yes
+110.04180571633304,2562.671374488052,Month-to-month,No,0,DSL,Credit card (automatic),56,Yes
+83.3101457273268,1249.928175454647,One year,Yes,0,Fiber optic,Mailed check,6,Yes
+53.90297910487007,618.4422824590575,Month-to-month,No,0,No,Mailed check,50,Yes
+54.92095746126609,3072.5692100860815,Two year,Yes,0,Fiber optic,Mailed check,37,No
+92.59556788702393,1478.721238539266,Two year,Yes,0,Fiber optic,Credit card (automatic),64,Yes
+109.71102599525771,2927.1291960419308,Two year,Yes,1,DSL,Credit card (automatic),54,Yes
+108.70864242651173,814.0954406073014,One year,No,0,Fiber optic,Electronic check,49,Yes
+97.98755458576238,2431.6435041813465,Month-to-month,No,0,Fiber optic,Mailed check,11,Yes
+84.20316461542878,2686.31769113035,One year,No,1,Fiber optic,Bank transfer (automatic),49,Yes
+28.413996499504883,306.5265072710132,Month-to-month,No,0,No,Mailed check,21,Yes
+36.162871409461374,1716.191177059907,Month-to-month,No,0,DSL,Electronic check,66,Yes
+109.85541885270793,715.3526508479225,Month-to-month,No,0,DSL,Credit card (automatic),63,Yes
+80.64290596595899,363.70610384020034,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),28,No
+20.919705161662964,4950.303150330229,One year,Yes,1,No,Credit card (automatic),17,No
+30.14715428660321,1645.6515326248787,One year,No,0,DSL,Credit card (automatic),6,No
+86.35017691080559,4058.8785069804426,Month-to-month,Yes,1,DSL,Bank transfer (automatic),19,No
+20.50615838462187,1310.471241080631,Month-to-month,No,0,DSL,Mailed check,56,Yes
+36.08080514174986,3423.43847500845,Two year,No,1,DSL,Bank transfer (automatic),28,No
+74.87337893665861,3813.1279064539485,Month-to-month,Yes,0,Fiber optic,Electronic check,66,Yes
+89.18951976926932,2998.411766008829,Month-to-month,Yes,1,Fiber optic,Bank transfer (automatic),38,No
+85.19612595026005,2384.302133323284,Month-to-month,No,0,DSL,Electronic check,37,Yes
+42.426930946055975,2088.6125250289792,One year,No,1,Fiber optic,Bank transfer (automatic),68,No
+91.2179221347536,1776.8979193878267,One year,Yes,0,DSL,Electronic check,49,Yes
+43.724908749680004,4651.169264026738,Month-to-month,No,0,DSL,Electronic check,43,Yes
+52.539969815926774,4161.566068549259,Month-to-month,Yes,1,Fiber optic,Electronic check,36,Yes
+94.64914051180241,4826.883207799237,One year,No,0,No,Electronic check,58,Yes
+84.96328990472146,665.2712562534464,One year,No,1,No,Bank transfer (automatic),13,Yes
+104.9223410494178,3667.794002258039,Month-to-month,Yes,0,DSL,Bank transfer (automatic),52,Yes
+85.76128923003434,4694.785261264137,Two year,Yes,0,No,Mailed check,58,Yes
+76.83086033354716,947.1036775200178,Month-to-month,Yes,0,Fiber optic,Electronic check,32,Yes
+29.36747678280925,379.1565234655486,Month-to-month,No,0,Fiber optic,Electronic check,60,No
+56.77158030594335,3718.5472139857925,Two year,Yes,0,Fiber optic,Electronic check,58,No
+46.520236768172545,2893.641910240564,Month-to-month,No,0,Fiber optic,Electronic check,56,Yes
+44.39896433790836,4217.052444953447,One year,Yes,0,DSL,Credit card (automatic),28,No
+117.30105547524455,741.873264300133,Month-to-month,No,0,DSL,Electronic check,1,Yes
+59.30977246667604,3986.5731937064565,Month-to-month,No,0,DSL,Mailed check,42,No
+109.20465551771133,1048.0552342363353,Two year,No,0,DSL,Electronic check,48,Yes
+83.11386259972629,860.0969171852373,Month-to-month,No,0,Fiber optic,Electronic check,40,Yes
+99.48113035416485,863.1156997584151,Two year,No,0,Fiber optic,Mailed check,63,Yes
+70.26370931051922,4082.1448651453416,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),4,No
+77.69038846263591,3342.7262424461906,Month-to-month,No,1,DSL,Electronic check,38,Yes
+69.25176938188639,2639.173852607141,Month-to-month,No,1,No,Electronic check,27,Yes
+39.52429877980445,1826.2108964113374,One year,Yes,0,No,Mailed check,9,No
+92.24521152615053,4392.142677024886,Month-to-month,No,0,Fiber optic,Electronic check,16,Yes
+48.07723624408558,1992.603281742045,Two year,No,1,No,Electronic check,56,No
+22.431596643145383,4092.1672253843067,Month-to-month,Yes,0,Fiber optic,Credit card (automatic),31,Yes
+84.54722959071678,2223.717797422581,Two year,No,0,No,Bank transfer (automatic),14,Yes
+37.71106794070489,1915.8749256532926,Month-to-month,No,0,DSL,Bank transfer (automatic),25,Yes
+114.04585843529144,2340.264939064552,Two year,No,0,Fiber optic,Mailed check,34,Yes
+115.39285770025873,1541.8204771125033,One year,No,0,DSL,Mailed check,67,Yes
+111.48643902204485,3750.666431872443,One year,No,0,DSL,Mailed check,24,No
+57.01587002554444,2538.465930957772,One year,Yes,1,DSL,Bank transfer (automatic),26,No
+21.545661652886743,1199.4528409767456,One year,No,1,Fiber optic,Bank transfer (automatic),20,No
+112.83185625877253,4502.894137709114,One year,No,0,Fiber optic,Electronic check,64,Yes
+62.81841483173143,1950.2615457973966,Month-to-month,Yes,0,Fiber optic,Mailed check,10,Yes
+116.66548190436696,2740.5866625142435,Month-to-month,Yes,1,DSL,Mailed check,67,Yes
+116.36199770892529,4537.036949274508,Two year,No,0,No,Credit card (automatic),24,Yes
+105.300945546736,3139.978079774261,One year,Yes,0,Fiber optic,Bank transfer (automatic),5,Yes
+49.44488920695857,628.6453015064021,One year,No,0,Fiber optic,Mailed check,67,No
+58.50977286019253,4702.169011886702,Month-to-month,Yes,1,Fiber optic,Electronic check,58,Yes
+105.11366715168569,3157.1548627035186,Month-to-month,Yes,0,DSL,Bank transfer (automatic),27,No
+51.69220051562777,1707.7827925525762,Month-to-month,Yes,1,DSL,Electronic check,15,No
+36.94927466860925,739.396759683767,One year,No,1,No,Mailed check,35,No
+75.68012624583501,3980.424686887965,Month-to-month,No,0,DSL,Electronic check,53,No
+113.6154774160781,3119.360141846142,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),44,No
+89.6029796674973,2690.6324052827918,Month-to-month,No,0,No,Electronic check,26,Yes
+77.0061170089365,4474.76828610224,Month-to-month,Yes,0,Fiber optic,Mailed check,47,Yes
+29.717649377076853,3953.556195561427,Month-to-month,No,0,DSL,Credit card (automatic),34,No
+81.50072266991697,800.7906546771184,Month-to-month,No,0,DSL,Electronic check,50,Yes
+119.00538501042632,1593.0242355879636,One year,No,0,DSL,Mailed check,12,Yes
+34.0084015236524,1280.0212420816054,Month-to-month,Yes,1,Fiber optic,Mailed check,4,Yes
+71.83296523637367,3732.5341482347512,Month-to-month,No,0,Fiber optic,Electronic check,48,Yes
+107.73730719279554,215.98555194210795,Month-to-month,Yes,0,DSL,Bank transfer (automatic),55,Yes
+94.07686177542044,2870.953940113017,Month-to-month,No,0,No,Electronic check,1,Yes
+89.7015740995268,3824.170494416418,Month-to-month,No,0,Fiber optic,Mailed check,66,Yes
+90.24840839871092,4389.98990197066,Month-to-month,No,0,DSL,Bank transfer (automatic),30,Yes
+55.94911512197552,1743.304656143742,One year,No,0,Fiber optic,Bank transfer (automatic),3,Yes
+49.35918442644934,4115.223658126463,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),21,No
+100.93611554785136,597.6270979282758,One year,No,0,DSL,Electronic check,49,No
+101.01133946791808,4239.938844085865,Two year,No,0,DSL,Electronic check,62,Yes
+106.70723185801037,681.068878543313,One year,No,0,No,Bank transfer (automatic),38,Yes
+111.32405525564712,2016.572088273818,Month-to-month,No,0,Fiber optic,Mailed check,15,Yes
+71.13423988609378,3996.61206060879,Month-to-month,No,1,Fiber optic,Credit card (automatic),52,No
+70.15162946871996,792.0912653764302,Month-to-month,No,0,Fiber optic,Credit card (automatic),46,No
+99.82951789667752,1184.7944064015753,Month-to-month,No,0,DSL,Credit card (automatic),25,Yes
+84.99639307777652,3625.150213545678,Two year,No,0,DSL,Mailed check,21,Yes
+90.19668772577033,3614.1808559030683,Month-to-month,Yes,0,Fiber optic,Mailed check,5,No
+99.57926694361011,3223.6807827822217,Month-to-month,No,0,DSL,Bank transfer (automatic),70,No
+109.00053418175663,3485.044800112145,One year,Yes,0,DSL,Mailed check,47,Yes
+53.79951568515358,2736.485994570601,One year,No,0,No,Electronic check,68,No
+57.5582952639944,1296.4053415894161,Month-to-month,No,0,No,Credit card (automatic),18,Yes
+29.3981939840869,1761.1951678444013,Month-to-month,No,0,Fiber optic,Credit card (automatic),21,Yes
+77.82801409961739,948.9086981670571,Month-to-month,No,0,No,Mailed check,23,No
+23.59422737967421,4546.83027860146,Month-to-month,No,0,DSL,Electronic check,64,Yes
+66.55980181324601,2937.789384092296,Month-to-month,No,1,No,Mailed check,67,No
+74.26446347075766,2034.2145129800174,Month-to-month,No,0,DSL,Credit card (automatic),40,Yes
+48.65412521282844,2336.928728038457,Month-to-month,Yes,0,No,Credit card (automatic),10,Yes
+79.08332605690107,4739.052531078486,Month-to-month,No,0,No,Electronic check,52,Yes
+23.05002499390494,809.089445424597,Month-to-month,Yes,0,Fiber optic,Electronic check,61,Yes
+23.73481887492144,2951.8376684831464,Month-to-month,No,0,No,Credit card (automatic),64,Yes
+102.26005606596583,2554.148960478107,Month-to-month,No,0,Fiber optic,Mailed check,5,Yes
+56.019064141126286,3076.698465401507,One year,No,0,DSL,Mailed check,53,No
+32.70605126518848,139.6454099131605,One year,Yes,0,Fiber optic,Credit card (automatic),55,No
+72.22432600548044,4367.0133492735495,Month-to-month,Yes,0,Fiber optic,Electronic check,37,No
+96.99935530986109,4663.985498293881,Month-to-month,No,0,DSL,Bank transfer (automatic),56,Yes
+41.58210274968432,2847.409258766584,Month-to-month,Yes,0,Fiber optic,Electronic check,59,Yes
+82.28904758190002,3498.421578190617,One year,Yes,0,No,Mailed check,69,No
+28.5347464993768,4616.371936827613,One year,Yes,0,DSL,Credit card (automatic),59,No
+25.16817211686077,3550.831239851323,Month-to-month,No,1,Fiber optic,Mailed check,2,No
+73.1354631568148,805.0682624255936,Two year,No,0,No,Credit card (automatic),65,No
+74.06351216101065,2902.6273828257254,Month-to-month,No,0,No,Bank transfer (automatic),60,No
+83.74299014982066,3053.239479595137,Month-to-month,Yes,0,No,Mailed check,51,Yes
+92.60913337226616,2149.4468229468107,One year,No,1,Fiber optic,Electronic check,30,Yes
+117.58520794625346,3695.398966342378,Two year,No,0,No,Mailed check,11,Yes
+71.63003483011953,4675.116723106624,One year,No,0,Fiber optic,Mailed check,39,No
+52.2956472941246,4631.564138888542,One year,Yes,0,DSL,Electronic check,63,No
+99.51861947687037,2281.654888450454,Month-to-month,Yes,0,Fiber optic,Mailed check,64,No
+47.083225126207424,610.5283269117385,One year,Yes,0,Fiber optic,Mailed check,61,No
+63.89714207056361,4924.9639348635565,Month-to-month,No,0,DSL,Bank transfer (automatic),54,Yes
+27.845638134226597,4202.545527907374,Two year,No,1,Fiber optic,Bank transfer (automatic),58,No
+22.53507434154575,667.0802719561709,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),56,Yes
+116.26484146779251,4608.167318955993,One year,Yes,0,DSL,Electronic check,34,Yes
+103.59801205122058,4355.986992207535,Month-to-month,Yes,1,Fiber optic,Electronic check,31,Yes
+89.59742060936979,2618.248382774057,One year,No,0,Fiber optic,Bank transfer (automatic),52,Yes
+60.89529444142699,2976.8134069373996,Month-to-month,Yes,0,Fiber optic,Mailed check,1,No
+37.32943200708458,2025.0633841571448,One year,No,0,DSL,Electronic check,55,No
+35.6437042671086,321.0701121690551,Month-to-month,No,0,DSL,Credit card (automatic),22,Yes
+45.024289816459536,1709.2263461472096,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),40,Yes
+74.92266647061204,4024.124570560157,Month-to-month,Yes,1,No,Mailed check,1,No
+91.45959227000624,72.92851387278415,Month-to-month,Yes,0,DSL,Electronic check,65,No
+86.01973767177313,1700.8208998711636,Two year,No,0,Fiber optic,Bank transfer (automatic),63,No
+47.993389694594285,2020.9350332751694,Month-to-month,No,0,DSL,Bank transfer (automatic),54,Yes
+115.48652806631941,2710.108234542718,Two year,No,1,DSL,Bank transfer (automatic),42,No
+93.78969166957685,4603.285301243164,Month-to-month,No,1,No,Bank transfer (automatic),21,No
+75.43540525114007,1764.4126721115083,Month-to-month,Yes,1,Fiber optic,Credit card (automatic),22,Yes
+81.17207462343522,1767.418349386327,One year,No,0,DSL,Mailed check,38,Yes
+61.96000624277899,3700.6311781432546,One year,No,0,Fiber optic,Electronic check,8,Yes
+44.773098950115745,2288.4788074045455,Month-to-month,Yes,0,DSL,Bank transfer (automatic),62,No
+55.597267865126156,1161.7938735529108,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),47,No
+95.78461104643691,2289.5756048568323,One year,No,0,Fiber optic,Bank transfer (automatic),17,Yes
+21.439348862975585,747.2422508800094,Month-to-month,No,0,DSL,Electronic check,17,No
+31.607264050691622,923.1155832058054,Two year,No,0,DSL,Electronic check,13,No
+24.600264202175275,2516.920475060425,Two year,No,0,Fiber optic,Credit card (automatic),17,No
+24.072880231897013,2123.680975047512,One year,No,0,No,Bank transfer (automatic),38,No
+105.54605840110072,4578.487210287095,Month-to-month,Yes,0,No,Credit card (automatic),45,Yes
+90.36578593800236,1843.849800627334,One year,No,0,DSL,Bank transfer (automatic),6,Yes
+67.41738290873252,2923.912333876315,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),35,Yes
+29.78341606510015,3179.7082252016753,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),14,No
+69.16158751168324,114.8175601122515,Month-to-month,No,0,Fiber optic,Credit card (automatic),61,Yes
+67.34717707805657,3334.5099914827174,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),15,Yes
+37.32018699100152,931.2780360052695,Two year,No,0,No,Bank transfer (automatic),54,No
+63.385164923797305,4807.298071473803,One year,No,0,No,Electronic check,27,No
+59.85047343973734,785.8805023779091,One year,No,1,Fiber optic,Mailed check,13,No
+81.58500980522165,2102.3894124487674,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),31,Yes
+83.50936508676438,472.4808569892871,Month-to-month,Yes,0,Fiber optic,Electronic check,35,Yes
+24.53040097720445,4984.52754663744,Month-to-month,Yes,0,DSL,Electronic check,60,No
+57.46126146264712,2535.865301139651,Two year,No,0,Fiber optic,Mailed check,6,Yes
+82.58599157142363,2997.155835734217,Month-to-month,No,0,Fiber optic,Electronic check,69,Yes
+70.31362585800878,382.02856307271605,Two year,Yes,0,Fiber optic,Electronic check,58,No
+105.64898411883223,3762.30432847593,Month-to-month,No,1,DSL,Mailed check,49,Yes
+85.8693631618945,1089.0326858231494,Month-to-month,No,0,DSL,Credit card (automatic),23,Yes
+36.29344270814297,4495.368732731533,One year,No,1,No,Mailed check,34,No
+27.056874740042986,1065.4412203859356,Month-to-month,No,0,DSL,Electronic check,26,Yes
+84.24192782063156,993.9042172851496,Two year,Yes,0,Fiber optic,Electronic check,47,Yes
+22.65113105416218,230.92085584806966,Two year,No,1,DSL,Bank transfer (automatic),5,No
+78.57755812734634,2386.731378294496,Month-to-month,No,0,DSL,Mailed check,20,Yes
+114.02302414249576,2845.963609649951,Month-to-month,No,0,DSL,Credit card (automatic),6,No
+77.54741778758789,375.2577651703442,Month-to-month,No,0,DSL,Bank transfer (automatic),70,Yes
+58.816992620652194,3888.861702640302,Two year,No,0,No,Bank transfer (automatic),59,No
+84.32882184423532,2293.7797320027366,Month-to-month,No,0,DSL,Electronic check,64,Yes
+65.82528904915166,2645.731833171521,One year,Yes,0,No,Bank transfer (automatic),18,No
+74.56167893159349,2231.7755973442295,One year,No,0,Fiber optic,Electronic check,4,No
+114.14648087765252,2033.7771513328637,One year,No,0,Fiber optic,Credit card (automatic),17,Yes
+58.610263780077425,2820.2196399756785,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),14,Yes
+116.11905638239142,818.4392173570269,One year,Yes,0,Fiber optic,Mailed check,13,No
+110.53506419560637,950.5442459515921,Two year,Yes,0,Fiber optic,Electronic check,7,No
+39.57911347892964,4315.838824016911,Month-to-month,Yes,0,DSL,Electronic check,44,Yes
+26.936130087516545,4733.271537561482,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),15,Yes
+30.077800137742663,1897.881115584777,Two year,No,0,No,Electronic check,19,No
+21.82218256515497,1390.1861320605913,Month-to-month,Yes,1,No,Bank transfer (automatic),63,Yes
+29.44429607559284,3237.797739033128,Two year,No,0,No,Electronic check,35,No
+88.30067734163569,2073.234146935577,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),35,Yes
+27.1188648460229,175.66246051870706,Month-to-month,No,0,Fiber optic,Credit card (automatic),19,Yes
+51.89756302937613,822.9553569626423,Two year,No,0,Fiber optic,Bank transfer (automatic),20,No
+104.48753109694546,3594.0625327946177,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),35,Yes
+22.327193573582587,3311.6735124552492,Month-to-month,No,0,DSL,Electronic check,32,Yes
+101.44684825889358,184.12516289224328,Month-to-month,Yes,0,Fiber optic,Electronic check,48,Yes
+48.185477477339994,1148.7622015680997,Month-to-month,No,0,DSL,Bank transfer (automatic),44,Yes
+31.816482762165627,1193.8202431109535,Month-to-month,No,1,DSL,Mailed check,24,Yes
+89.67371653641507,3375.8690808137058,Month-to-month,No,1,No,Mailed check,61,Yes
+82.8942846779884,147.56716188410257,Two year,No,1,DSL,Electronic check,17,No
+107.74720135270529,565.3374808236405,Month-to-month,No,0,DSL,Electronic check,71,No
+93.50710438038858,4009.5846225972873,One year,Yes,0,DSL,Electronic check,50,Yes
+100.34809303848486,933.7960771689513,Month-to-month,No,0,No,Credit card (automatic),65,Yes
+48.20345725713065,3281.09323386678,One year,Yes,0,Fiber optic,Electronic check,32,No
+37.74395437797228,1229.0047661812962,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),36,Yes
+95.06147516408583,542.2348941587585,Two year,No,0,No,Electronic check,13,Yes
+100.6834739267264,1253.7023454472978,Month-to-month,No,0,No,Bank transfer (automatic),70,Yes
+119.05051420006733,3625.2213126855127,Month-to-month,Yes,0,DSL,Mailed check,58,Yes
+61.26176769114265,4285.697517126115,Month-to-month,No,0,Fiber optic,Credit card (automatic),14,Yes
+57.201808579278314,4159.588329606609,Month-to-month,No,0,Fiber optic,Credit card (automatic),37,No
+97.64129607419969,2016.0584716113515,Month-to-month,Yes,0,Fiber optic,Mailed check,68,Yes
+54.08035402530179,3357.0214260246985,Month-to-month,No,1,DSL,Credit card (automatic),40,Yes
+113.07573256035647,1064.6722623083137,One year,No,0,No,Credit card (automatic),59,Yes
+105.84127518430118,1501.0812647920156,Month-to-month,No,0,Fiber optic,Credit card (automatic),16,No
+62.89940273750184,4486.862301679543,Month-to-month,Yes,0,DSL,Credit card (automatic),62,Yes
+95.08710677914974,114.35952137814337,One year,No,0,Fiber optic,Electronic check,4,No
+95.45428740846823,473.267227729617,One year,No,0,DSL,Bank transfer (automatic),45,Yes
+30.312386883593263,1079.0369629728352,Month-to-month,No,0,DSL,Electronic check,28,No
+110.25529066795667,181.3344091754076,Month-to-month,Yes,0,Fiber optic,Electronic check,66,Yes
+70.52523724478571,948.1054036944967,Month-to-month,No,0,DSL,Credit card (automatic),31,Yes
+102.64574661077417,2936.055726799976,One year,Yes,0,Fiber optic,Mailed check,3,No
+52.00496010306117,2136.0515254328648,One year,No,0,Fiber optic,Bank transfer (automatic),8,Yes
+109.55232284962005,4468.724969831025,Month-to-month,Yes,0,DSL,Credit card (automatic),24,No
+58.92016787341631,4096.345630605282,One year,No,0,No,Credit card (automatic),15,No
+21.083765148029837,1741.995890904486,One year,No,0,DSL,Credit card (automatic),43,No
+110.53819764192636,1334.1459954848979,Month-to-month,No,1,DSL,Electronic check,31,Yes
+29.128667678613354,1929.477420427971,Two year,Yes,0,DSL,Electronic check,45,No
+51.93136375904149,2971.959965448298,Month-to-month,No,0,DSL,Mailed check,66,Yes
+115.0061967050805,1376.9150220732374,Month-to-month,No,0,DSL,Electronic check,8,Yes
+115.06071469375561,3139.5370938532133,Month-to-month,No,0,Fiber optic,Electronic check,71,Yes
+77.34378881232861,2076.58767834664,Month-to-month,No,0,No,Mailed check,57,Yes
+83.18372121697993,2782.633545217302,Month-to-month,No,0,DSL,Bank transfer (automatic),30,Yes
+64.84455219783197,2208.8263192198174,Two year,No,1,Fiber optic,Bank transfer (automatic),18,No
+49.32107716980645,1507.6055097324925,Month-to-month,No,0,Fiber optic,Mailed check,69,Yes
+52.8664545369916,4744.843869462676,Month-to-month,No,0,No,Bank transfer (automatic),39,Yes
+87.25184560770384,3829.848681090816,Month-to-month,No,0,Fiber optic,Electronic check,60,Yes
+95.237452943768,743.5602200439401,Two year,No,0,DSL,Electronic check,43,No
+99.15790437258485,4348.916480694668,Month-to-month,No,0,DSL,Bank transfer (automatic),45,Yes
+98.96181427945538,2462.7844313350924,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),23,Yes
+29.120610304869036,4478.033523125752,Month-to-month,No,0,No,Bank transfer (automatic),69,Yes
+69.44203047025815,4009.28351693921,Month-to-month,No,0,DSL,Electronic check,6,Yes
+25.75587600166443,2154.8068471227057,Two year,No,0,Fiber optic,Credit card (automatic),56,No
+74.95288823237355,161.22307618458112,Two year,Yes,1,No,Bank transfer (automatic),4,No
+64.1530501373377,1379.952928955483,Month-to-month,No,0,No,Bank transfer (automatic),23,Yes
+108.77041827582998,2731.089362571291,Two year,No,1,No,Bank transfer (automatic),6,No
+55.09150125520787,3185.717188139429,One year,No,0,Fiber optic,Credit card (automatic),32,No
+31.706701642760585,1326.5440428943514,Two year,Yes,1,Fiber optic,Bank transfer (automatic),18,No
+34.299168205283586,739.8125666604794,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),15,No
+96.15106317174723,4182.904672156531,Month-to-month,No,1,Fiber optic,Credit card (automatic),40,No
+81.8218063316261,4922.790794482583,Month-to-month,No,1,DSL,Bank transfer (automatic),6,Yes
+30.112267612279023,2652.166402398295,One year,No,0,Fiber optic,Mailed check,63,No
+28.410680611499743,899.8124649491023,Month-to-month,No,1,Fiber optic,Bank transfer (automatic),67,No
+90.096913145912,1397.9212662708762,Month-to-month,No,0,DSL,Mailed check,11,No
+27.276300636419354,141.03384890996034,Month-to-month,Yes,0,Fiber optic,Electronic check,43,Yes
+102.18600592903562,4575.77909247447,One year,No,0,Fiber optic,Bank transfer (automatic),17,No
+90.62422271564962,632.8678603061986,Month-to-month,No,0,No,Credit card (automatic),4,Yes
+28.134878064189976,2903.756553795555,One year,Yes,0,DSL,Credit card (automatic),63,No
+28.483771408519193,1406.5733424016696,Two year,Yes,0,DSL,Mailed check,68,No
+118.66395785011754,2793.1811124531773,Month-to-month,No,0,Fiber optic,Mailed check,41,No
+57.427079575612034,3274.530922341728,One year,No,0,DSL,Electronic check,5,No
+57.06421470668909,4157.221928350648,Month-to-month,No,1,Fiber optic,Credit card (automatic),32,Yes
+101.27995672575025,1071.7852952149858,Two year,No,0,Fiber optic,Credit card (automatic),70,Yes
+114.72485773838586,104.42935185947836,Month-to-month,No,0,DSL,Bank transfer (automatic),35,No
+118.6001063822871,727.583868840596,One year,No,0,Fiber optic,Credit card (automatic),22,No
+95.33781852589416,4505.09227714812,One year,Yes,0,Fiber optic,Bank transfer (automatic),65,Yes
+57.62595855309158,4375.75588393445,Two year,No,0,Fiber optic,Bank transfer (automatic),22,No
+28.350071669866878,3007.194855743026,One year,No,0,No,Electronic check,11,No
+97.71469159274368,3022.558459146584,Month-to-month,Yes,0,No,Mailed check,3,Yes
+75.84042497358051,3341.9315390039646,One year,Yes,1,Fiber optic,Bank transfer (automatic),9,Yes
+62.42220092469763,918.0878291860755,Two year,No,0,Fiber optic,Bank transfer (automatic),60,No
+110.6354385094736,4576.3391323285505,Month-to-month,No,0,Fiber optic,Mailed check,14,No
+31.119748230615134,2122.914098215762,Month-to-month,No,0,No,Credit card (automatic),18,Yes
+69.26251042908592,1946.5357148350124,Two year,No,0,Fiber optic,Electronic check,23,No
+21.135364476741906,2618.6426411500456,One year,No,0,Fiber optic,Mailed check,47,No
+66.86606419941263,282.4815355365225,One year,No,0,No,Bank transfer (automatic),69,No
+25.630327568183734,873.1026753425931,Month-to-month,No,0,DSL,Bank transfer (automatic),47,No
+31.881791626807193,3703.2664013105336,One year,No,0,No,Bank transfer (automatic),30,No
+31.75262467771049,459.853406229376,Month-to-month,Yes,1,DSL,Electronic check,25,No
+84.92103021160635,3035.6029418586218,One year,No,1,DSL,Electronic check,28,Yes
+94.60448792654233,1264.4780929225387,Month-to-month,No,0,DSL,Bank transfer (automatic),25,Yes
+78.33687650971596,1977.0132895077838,One year,No,0,No,Bank transfer (automatic),58,No
+116.21725484745419,1479.0339970149644,Two year,No,0,No,Electronic check,41,No
+57.48705795237041,1810.5799465014982,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),25,No
+48.57120862818607,3609.277230662015,Two year,Yes,0,Fiber optic,Mailed check,48,No
+106.85991281894603,1520.7524923347164,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),10,Yes
+42.35958385194527,2853.702969469641,Two year,No,0,No,Credit card (automatic),11,No
+116.32225394406113,2406.449490885543,One year,Yes,0,Fiber optic,Electronic check,21,Yes
+21.215447468981633,3335.172268545108,Month-to-month,Yes,0,Fiber optic,Electronic check,45,Yes
+116.98788267076391,4687.307209657552,One year,No,1,DSL,Bank transfer (automatic),7,Yes
+24.315991195057613,3676.231881190739,Two year,Yes,1,Fiber optic,Bank transfer (automatic),64,No
+109.11431136980711,1113.954874024246,Month-to-month,No,0,Fiber optic,Bank transfer (automatic),64,Yes
+72.77011090862999,204.35651855335914,Month-to-month,Yes,0,Fiber optic,Credit card (automatic),2,Yes
+119.29647961193004,1348.207019284134,One year,No,1,DSL,Credit card (automatic),42,Yes
+27.379656473539885,2995.6357569662614,One year,Yes,0,No,Credit card (automatic),54,No
+75.38542844013207,304.5577767470392,One year,No,0,DSL,Mailed check,16,No
+116.9302535619099,2507.01292364612,One year,No,0,Fiber optic,Mailed check,18,Yes
+72.30978441701488,3004.372102138602,Month-to-month,No,0,No,Mailed check,59,No
+82.93986381352626,1704.507259543956,One year,Yes,0,Fiber optic,Electronic check,16,No
+89.57486889846172,3866.0154085418185,Month-to-month,No,1,DSL,Bank transfer (automatic),6,Yes
+65.45410647677733,577.6613530121705,Month-to-month,No,1,Fiber optic,Electronic check,57,Yes
+82.75580800840635,421.93201959225337,Month-to-month,No,0,No,Credit card (automatic),47,Yes
+78.43143119231003,3654.5343432078366,Month-to-month,Yes,0,Fiber optic,Bank transfer (automatic),48,Yes
+110.11580104909889,2502.6820152206824,Month-to-month,Yes,1,No,Bank transfer (automatic),42,Yes
+24.544638034145787,3457.5918623172934,Month-to-month,No,0,DSL,Mailed check,60,No
+48.096318959223034,2202.3953260885437,One year,No,1,Fiber optic,Electronic check,4,No
+115.04114840765587,1269.6900645335786,Month-to-month,No,0,Fiber optic,Electronic check,2,No
+109.02637838909163,4104.556472487288,Month-to-month,No,0,No,Mailed check,59,Yes
+65.56567527857129,4007.108600896447,Month-to-month,No,0,DSL,Electronic check,27,Yes
+82.01325978015367,3488.7475307294126,Month-to-month,Yes,0,No,Bank transfer (automatic),27,No
+47.73811829811327,1397.1184292883154,Month-to-month,No,0,Fiber optic,Credit card (automatic),7,Yes
+38.812115972376134,2971.641801001981,Month-to-month,Yes,0,Fiber optic,Credit card (automatic),63,Yes
+66.36984049399821,1836.8207898531327,One year,No,0,DSL,Bank transfer (automatic),46,No
+55.33522280260528,503.33126296683906,One year,No,0,No,Electronic check,63,No
+78.3656111850872,4590.702198538102,One year,No,0,DSL,Credit card (automatic),12,No
+27.773463696498485,727.2522230488589,Month-to-month,Yes,1,DSL,Credit card (automatic),13,Yes
+117.43948076661665,4753.674901412972,Month-to-month,Yes,1,DSL,Electronic check,43,Yes
+118.62107444796028,2257.7285761418807,Two year,Yes,0,No,Bank transfer (automatic),17,No

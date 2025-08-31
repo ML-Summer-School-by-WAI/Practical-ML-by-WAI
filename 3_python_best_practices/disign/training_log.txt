@@ -1,0 +1,10 @@
+Epoch 1: Loss=0.0400, Acc=0.60
+Epoch 2: Loss=0.0300, Acc=0.70
+Epoch 3: Loss=0.0200, Acc=0.80
+Epoch 4: Loss=0.0100, Acc=0.90
+Epoch 5: Loss=0.0000, Acc=1.00
+ML_Summer_School_THS - Epoch 1: Loss=0.0400, Acc=0.60
+ML_Summer_School_THS - Epoch 2: Loss=0.0300, Acc=0.70
+ML_Summer_School_THS - Epoch 3: Loss=0.0200, Acc=0.80
+ML_Summer_School_THS - Epoch 4: Loss=0.0100, Acc=0.90
+ML_Summer_School_THS - Epoch 5: Loss=0.0000, Acc=1.00

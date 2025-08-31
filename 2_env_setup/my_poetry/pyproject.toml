@@ -1,0 +1,17 @@
+[project]
+name = "my-poetry"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Thar Htet San",email = "tharhtet1234@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas (>=2.3.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
