@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# Cat and Dog Image Segmentation Project — Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A lightweight web UI for uploading an image, sending it to the FastAPI backend for **cat/dog segmentation**, and visualizing the predicted mask over the original image.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Upload local image (PNG/JPG)
+- Call backend inference API
+- Show original, mask, and overlay (adjustable opacity)
+- Basic error handling & loading states
+- CORS-friendly fetch
 
-### `npm start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React** (works with Vite or Create React App)
+- **TypeScript** (optional—remove notes if you’re on JS)
+- **Fetch API** for HTTP calls
+- Minimal CSS (Tailwind or plain CSS—up to your project)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Your repo uses Node 16.x in other parts. Keep Node ≥16.x here too.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+### 1) Install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# choose one
+npm install
+# or
+yarn
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2) Environment variables
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Create a `.env` file in this `frontend` folder and set your backend URL.
 
-### `npm run eject`
+For **Vite**:
+```
+VITE_API_BASE_URL=http://localhost:8888
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+For **Create React App**:
+```
+REACT_APP_API_BASE_URL=http://localhost:8888
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> If you deploy, change this to your public backend URL.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 3) Run the app
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Vite:**
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-## Learn More
+**Create React App:**
+```bash
+npm start
+# or
+yarn start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+App will start on something like `http://localhost:5173` (Vite) or `http://localhost:3000` (CRA).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## Scripts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Common scripts (adjust to your package.json):
 
-### Analyzing the Bundle Size
+```bash
+# development
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## CORS
 
-### Advanced Configuration
+On the FastAPI side, enable CORS for local dev:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```python
+from fastapi.middleware.cors import CORSMiddleware
 
-### Deployment
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## UI Flow
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Upload** an image (cats/dogs).
+2. Click **Predict**.
+3. See:
+   - Original image
+   - Predicted mask
+   - **Overlay** with adjustable opacity slider
+
+---
+
