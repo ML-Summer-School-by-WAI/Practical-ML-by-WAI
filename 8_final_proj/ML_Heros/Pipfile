@@ -5,15 +5,14 @@ name = "pypi"
 
 [packages]
 opencv-python = "*"
-python-dotenv = "*"
-scipy = "*"
-imgviz = "*"
-tqdm = "*"
+tensorflow = "==2.19.0"
+matplotlib = "*"
+fastapi = "*"
+uvicorn = "*"
+python-multipart = "*"
 
 [dev-packages]
-matplotlib = "*"
 ipykernel = "*"
 
 [requires]
-python_version = "3.11"
-python_full_version = "3.11.13"
+python_version = "3.10"
