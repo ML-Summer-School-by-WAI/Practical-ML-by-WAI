@@ -137,6 +137,20 @@ curl -X POST -F "file=@cat.jpg" "http://localhost:8888/segment/mask?format=gray"
   - `threshold` (binary models only, default 0.5)
 
 ---
+## 🐳 Run with Docker
+
+If you want to containerize the API:
+
+```bash
+# stop/remove old container if any
+docker rm -f seg-api-container 2>/dev/null || true
+
+# rebuild WITHOUT cache so the new Dockerfile takes effect
+docker build --no-cache -t seg-api .
+
+# run
+docker run -p 8888:8888 --name seg-api-container seg-api
+```
 
 ## 📖 API Docs
 
