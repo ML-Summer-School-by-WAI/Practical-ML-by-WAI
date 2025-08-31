@@ -122,3 +122,12 @@ Below are all the teams and their members who successfully completed the final p
 | ML007 | <img src="https://github.com/Kyaymone.png" width="50" height="50" style="border-radius:50%;"> | **Myat Kyay Mone** | [@Kyaymone](https://github.com/Kyaymone) |
 | ML009 | <img src="https://github.com/myatmon123.png" width="50" height="50" style="border-radius:50%;"> | **Myat Mon Kyaw** | [@myatmon123](https://github.com/myatmon123) |
 | ML018 | <img src="https://github.com/ThuZarLin.png" width="50" height="50" style="border-radius:50%;"> | **Thu Zar Lin** | [@ThuZarLin](https://github.com/ThuZarLin) |
+
+
+## [team_mdy](./8_final_proj/team_mdy)
+
+| ID | Avatar | Name | GitHub |
+|----|--------|------|--------|
+| ML046 | <img src="https://github.com/zweyaungnitun.png" width="50" height="50" style="border-radius:50%;"> | **Zwe Yaung Ni Tun** | [@zweyaungnitun](https://github.com/zweyaungnitun) |
+| ML005 | <img src="https://github.com/MrMyintMyatAung.png" width="50" height="50" style="border-radius:50%;"> | **Myint Myat Aung** | [@MrMyintMyatAung](https://github.com/MrMyintMyatAung) |
+| ML064 | <img src="https://github.com/nwenihtoo.png" width="50" height="50" style="border-radius:50%;"> | **Nwe Ni Htoo** | [@nwenihtoo](https://github.com/nwenihtoo) |
