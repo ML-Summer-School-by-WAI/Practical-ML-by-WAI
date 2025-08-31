@@ -13,6 +13,8 @@ from fastapi.responses import StreamingResponse
 # TensorFlow / Keras
 from tensorflow.keras.models import load_model
 
+from fastapi.middleware.cors import CORSMiddleware
+
 
 # ==============================
 # Config
@@ -34,6 +36,13 @@ _state: Dict[str, object] = {
     "input_size": (128, 128),  # (H, W), updated after load
 }
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # in dev, allow all. tighten later
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ==============================
 # Lifespan: load model once
