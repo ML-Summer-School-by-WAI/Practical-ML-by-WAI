@@ -8,6 +8,7 @@
 
 ## Project Overview
 This project focuses on image segmentation of cats and dogs using deep learning techniques. We utilize a dataset of cat and dog images to train a model that can accurately segment these animals from the background. The project is implemented using U-Net architecture with transfer learning.
+
 ---
 
 ## Project Structure
@@ -30,10 +31,16 @@ old_ucsyers/
 │   ├── image_encoding.ipynb     # Mask encoding and processing
 │   └── read_parcal_voc.ipynb    # VOC reading utilities
 │
-└── src/                         # Source code and API
-    ├── README.md                # API usage and setup instructions
-    ├── main.py                  # FastAPI app for segmentation inference
-    ├── final_model.keras        # Trained segmentation model (download separately)
+├── src/                         # Source code and API
+│   ├── README.md                # API usage and setup instructions
+│   ├── main.py                  # FastAPI app for segmentation inference
+│   ├── final_model.keras        # Trained segmentation model (download separately)
+│
+└── frontend/                    # Web UI (React)
+    ├── src/
+    ├── public/
+    ├── package.json
+    └── README.md
 ```
 
 ---
@@ -113,3 +120,52 @@ old_ucsyers/
    See [`src/README.md`](src/README.md) for full API documentation.
 
 ---
+
+## Frontend (Web UI)
+
+A lightweight React-based UI (Create React App) to upload an image, send it to the API, and visualize:
+- **Original image**
+- **Predicted mask** (color/gray)
+- **Overlay** (mask blended over original with adjustable opacity)
+
+### Prerequisites
+- Node.js ≥ 16.x
+- Backend API running at `http://localhost:8888` (or your deployed URL)
+
+### Setup & Run
+```sh
+cd frontend
+
+# install deps
+npm install
+# or
+yarn
+
+# development
+npm start
+```
+The app runs at  `http://localhost:3000`.
+
+### Environment Variables
+Create a `.env` inside `frontend/` and set your backend URL:
+
+**Vite:**
+```
+VITE_API_BASE_URL=http://localhost:8888
+```
+
+   See [`frontend/README.md`](frontend/README.md) for full Frontend documentation.
+
+---
+
+## License
+
+This project is developed for educational purposes as part of ML Summer School Program by WAI Myanmar.
+
+---
+
+**Old UCSYers** - Cat and Dog Image Segmentation Project
+- **[Nwe Ni Oo Wai](https://github.com/nwenioowai)**
+- **[Hein Htet Nyi](https://github.com/HeinHtetNyi)**
+- **[Ngwe Sin Linn Latt](https://github.com/NgweSin16)**
+- **[Aye Chan Htun Naing](https://github.com/ayechanhtunnaing)**
